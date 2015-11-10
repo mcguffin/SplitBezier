@@ -1,5 +1,5 @@
 # SplitBezier
 RoboFont Extension – adds Split Curve button to the toolbar
 
-![Before](/mcguffin/SplitBezier/war/master/SplitCurve-before.png)
-![After](/mcguffin/SplitBezier/war/master/SplitCurve-after.png)
+![Before](https://raw.githubusercontent.com/mcguffin/SplitBezier/master/SplitCurve-before.png)
+![After](https://raw.githubusercontent.com/mcguffin/SplitBezier/master/SplitCurve-after.png)
